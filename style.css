@@ -66,6 +66,9 @@ body {
   font-size: 16px;
   text-align: center;
 }
+#es-ysl.es-ysl .es-banner__text--bold {
+  font-weight: bold;
+}
 #es-ysl.es-ysl .es-banner__text--uppercase {
   font-size: 30px;
   text-transform: uppercase;
@@ -125,7 +128,6 @@ body {
 }
 #es-ysl.es-ysl .es-banner__description--bold {
   display: block;
-  margin-bottom: 20px;
   font-size: 20px;
   font-weight: 700;
 }
